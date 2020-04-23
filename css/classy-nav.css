@@ -497,7 +497,7 @@ img {
     clear: both;
     z-index: 10; }
     .classynav ul li a {
-      padding: 0 10px;
+      padding: 0 20px;
       height: 38px;
       line-height: 38px; }
     .classynav ul li .dropdown {
@@ -578,9 +578,9 @@ img {
   background-color: #ffffff;
   position: fixed;
   top: 0;
-  left: -310px;
+  left: -260px;
   z-index: 1000;
-  width: 300px;
+  width: 250px;
   height: 100%;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
@@ -597,7 +597,7 @@ img {
   clear: both;
   z-index: 10; }
   .breakpoint-on .classynav ul li a {
-    padding: 0 10px;
+    padding: 0 20px;
     height: 38px;
     line-height: 38px; }
   .breakpoint-on .classynav ul li .dropdown {
